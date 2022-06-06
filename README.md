@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @GeraltOfRivia3991
-- 👀 I’m interested in sports, environment, future
-- 🌱 I’m currently learning the very basics of HTML
-- 💞️ I’m looking to collaborate on developing efficient systems for enhncing sustainability in most progressive ways
+- interested in the future
 - 📫 How to reach me: leave msg here
 
 <!---
